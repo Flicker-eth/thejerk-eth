@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ Rahul 
-![gitmain3](https://user-images.githubusercontent.com/69352034/188733579-a319d17f-d1c0-4d5a-8bec-3a377742048b.png)
+![newgitmain](https://user-images.githubusercontent.com/69352034/189916298-f2f15042-f793-4003-86a8-77d34816a341.png)
+
 
 
 - 💞️ I’m looking to collaborate on any platform
